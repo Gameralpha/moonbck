@@ -9,7 +9,7 @@ from EmikoRobot.events import register
 from EmikoRobot import telethn as tbot
 
 
-PHOTO = "https://telegra.ph/file/2c13e570944404a6c0d86.jpg"
+PHOTO = "https://telegra.ph/file/7e4eade9cce789f23cbcd.jpg"
 
 
 @register(pattern=("/alive"))
