@@ -88,7 +88,7 @@ PM_START_TEXT = """
 ╠ /settings : 
 ╚══║in PM: will send you your settings for all supported modules.
    ╚ in a Group: will redirect you to pm, with all that chat's settings.
-   Powered by : [ALAN WALKER](https://t.me/tamilchating_fed)
+   Powered by : [ALAN WALKER]
 """
 
 buttons = [
@@ -101,14 +101,14 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➗ Add MOON To Your Group ➗", url="t.me/EmiexRobot?startgroup=new"
+            text="➗ Add MOON To Your Group ➗", url="t.me/Missharelyluna_bot?startgroup=new"
         ),
     ],
 ]
 
 
 HELP_STRINGS = """
-Click on the button bellow to get description about specifics command."""
+Click on the button bellow to get description about specifics [commands](https://telegra.ph/file/52b1b195f0d7df5ff79b2.jpg)."""
 
 EMI_IMG = "https://telegra.ph/file/52b1b195f0d7df5ff79b2.jpg"
 
